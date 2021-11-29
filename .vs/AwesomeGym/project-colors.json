@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e8c65d5-c982-4d89-b825-3ac92451a494": {
+      "ProjectGuid": "3e8c65d5-c982-4d89-b825-3ac92451a494",
+      "DisplayName": "AwesomeGym.API",
+      "ColorIndex": 0
+    },
+    "ec090322-283f-413a-b54a-3ec14bb47a21": {
+      "ProjectGuid": "ec090322-283f-413a-b54a-3ec14bb47a21",
+      "DisplayName": "AwesomeGym.Core",
+      "ColorIndex": 1
+    },
+    "a22aa547-33ff-466e-88db-6c1b07bd7d7d": {
+      "ProjectGuid": "a22aa547-33ff-466e-88db-6c1b07bd7d7d",
+      "DisplayName": "AwesomeGym.Infra",
+      "ColorIndex": 2
+    },
+    "6f6eedfe-0b5d-4d8b-9f33-541533bfe2b4": {
+      "ProjectGuid": "6f6eedfe-0b5d-4d8b-9f33-541533bfe2b4",
+      "DisplayName": "AwesomeGym.Application",
+      "ColorIndex": 3
+    },
+    "4ac3bded-b4e5-43e9-b707-96f0df532585": {
+      "ProjectGuid": "4ac3bded-b4e5-43e9-b707-96f0df532585",
+      "DisplayName": "AwesomeGym.API",
+      "ColorIndex": 4
+    },
+    "48bb148e-b402-420f-a4bd-98717797647b": {
+      "ProjectGuid": "48bb148e-b402-420f-a4bd-98717797647b",
+      "DisplayName": "AwesomeGym.API",
+      "ColorIndex": 5
+    },
+    "e42cd57b-cbd2-4115-804c-3b6c463a6821": {
+      "ProjectGuid": "e42cd57b-cbd2-4115-804c-3b6c463a6821",
+      "DisplayName": "AwesomeGym.UnitTests",
+      "ColorIndex": 6
+    },
+    "5c7a6e9c-c5f8-44ab-b94b-24ee5c503645": {
+      "ProjectGuid": "5c7a6e9c-c5f8-44ab-b94b-24ee5c503645",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
