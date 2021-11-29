@@ -9,8 +9,11 @@ Baseado no artigo https://www.luisdev.com.br/2020/09/29/clean-architecture-com-a
 ## Projects
 
 AwesomeGym.API :: REST interface
+
 AwesomeGym.Core :: business
+
 AwesomeGym.Infra :: infraestructure (db connections)
+
 AwesomeGym.UnitTests :: solution unit tests (xUnit)
 
 ## Techs
