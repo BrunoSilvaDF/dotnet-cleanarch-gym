@@ -1,8 +1,8 @@
-A CLEAN ARCHITECTURE solution in .NET 6.
+A simple .NET 6 Clean Architecture implementation.
 
 Based on https://www.luisdev.com.br/2020/09/29/clean-architecture-com-asp-net-core-parte-1/
 
-Uma solution de CLEAN ARCHITECTURE em .NET 6.
+Uma implementação simples de CLEAN ARCHITECTURE em .NET 6.
 
 --
 
