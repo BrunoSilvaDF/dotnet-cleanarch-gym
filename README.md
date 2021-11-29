@@ -16,3 +16,7 @@ AwesomeGym.UnitTests :: solution unit tests (xUnit)
 ## Techs
 
 .NET 6 ::REST :: Clean Architecture :: xUnit :: Moq :: FluentAssertions
+
+## TODO
+
+add Ardalis Specifications (https://github.com/ardalis/CleanArchitecture)
