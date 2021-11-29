@@ -4,6 +4,8 @@ Based on https://www.luisdev.com.br/2020/09/29/clean-architecture-com-asp-net-co
 
 Uma solution de CLEAN ARCHITECTURE em .NET 6.
 
+--
+
 Baseado no artigo https://www.luisdev.com.br/2020/09/29/clean-architecture-com-asp-net-core-parte-1/
 
 ## Projects
